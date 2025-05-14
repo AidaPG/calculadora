@@ -1,2 +1,2 @@
-# matematicas
+# calculadora
 Ejercicio de bootcamp Github
