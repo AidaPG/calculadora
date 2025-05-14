@@ -13,3 +13,12 @@ function dividir(a, b) {
     }
     return a / b;
 }
+function potencia(a, b) {
+    return Math.pow(a, b);
+}
+function raizCuadrada(a) {
+    if (a < 0) {
+        throw new Error("No se puede calcular la raíz cuadrada de un número negativo");
+    }
+    return Math.sqrt(a);
+}
